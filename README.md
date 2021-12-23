@@ -2,7 +2,7 @@
 https://netflix-clone-2bfc9.web.app/
 
 # Tech Used
-React-JS, API's, Axios, Firebase.
+React-JS, API's, Axios, Firebase, Firebase Hosting.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
